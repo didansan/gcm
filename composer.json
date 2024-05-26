@@ -10,13 +10,16 @@
             "homepage": "https://fruitcake.nl"
         }
     ],
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/didansan/ZendService_Google_Gcm.git"
+    }],
     "require": {
-        "php": ">=7.0.0",
-        "illuminate/events": "^5.5",
-        "illuminate/notifications": "^5.5",
-        "illuminate/queue": "^5.5",
-        "illuminate/support": "^5.5",
-        "zendframework/zendservice-google-gcm": "^2.0"
+        "php": "^8.2",
+        "illuminate/events": "^11.8.0",
+        "illuminate/notifications": "^11.8",
+        "illuminate/queue": "^11.8",
+        "illuminate/support": "^11.8"
     },
     "require-dev": {
         "mockery/mockery": "~1.0",
