@@ -19,7 +19,8 @@
         "illuminate/events": "^11.8.0",
         "illuminate/notifications": "^11.8",
         "illuminate/queue": "^11.8",
-        "illuminate/support": "^11.8"
+        "illuminate/support": "^11.8",
+        "zendframework/zendservice-google-gcm": "dev-master"
     },
     "require-dev": {
         "mockery/mockery": "~1.0",
