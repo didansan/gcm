@@ -12,7 +12,7 @@
     ],
     "repositories": [{
         "type": "vcs",
-        "url": "https://github.com/didansan/ZendService_Google_Gcm.git"
+        "url": "https://github.com/didansan/zendservice-google-gcm.git"
     }],
     "require": {
         "php": "^8.2",
